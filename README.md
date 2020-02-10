@@ -1,2 +1,2 @@
-# typescript-learn
-Learning mode for typescript
+# generics-typescript
+Learning typescript generics
